@@ -14,5 +14,5 @@ Otherwise, you are highly encouraged to join the worldwide communities and shoot
   - There's an increasing amount of cool stuff showing up on [#webgpu on Twitter](https://twitter.com/search?q=%23webgpu&f=live)
 
 
-
+For WebGPU documents, please refer [WebGPU Materials](https://docs.qq.com/doc/DT2duTmloSXVTdFlz).
 
