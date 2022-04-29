@@ -1,5 +1,5 @@
 # Web Graphics Forum
-If the worldwide communities don't fit you well, you're more than welcome to ask any questions (via issues) about Web Graphics, and we'll try to get back to you timely with answers.
+If the worldwide communities don't fit you well, you're more than welcome to ask any questions (via issues) here about Web Graphics, and we'll try to get back to you timely with answers. You may also contact Intel Web Graphics Team manager Yang Gu (email: yang.gu@intel.com, wechat: gyagp0) for further collaborations.
 
 Otherwise, you are highly encouraged to join the worldwide communities and shoot your questions there!
 - WebGL
